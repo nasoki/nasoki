@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nasoki / Mehmet Berat Bektas
-- 👀 I’m interested in Unreal Engine/Unity
-- 🌱 I’m currently learning blueprint programming/Unity script programming
-- 💞️ I’m looking to collaborate on Unreal Engine projects
-- 📫 How to reach me ...
+- 👀 I’m interested in Unity Game Engine
+- 🌱 I’m currently learning C# Game Programming
+- 💞️ I’m looking to collaborate on Unity projects
+- 📫 How to reach me: https://www.linkedin.com/in/mehmet-berat-bektas/ - bektas_berat@hotmail.com
 
 <!---
 nasoki/nasoki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
