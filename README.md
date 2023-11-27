@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nasoki / Mehmet Berat Bektas
+- 👋 Hi, I’m Mehmet Berat Bektas
 - 👀 I’m interested in Unity Game Engine
 - 🌱 I’m currently learning C# Game Programming
 - 💞️ I’m looking to collaborate on Unity projects
